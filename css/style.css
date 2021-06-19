@@ -1,0 +1,106 @@
+html,
+body,
+header,
+#enter {
+    height: 100%;
+}
+
+#enter {
+    background: url("https://game.gtimg.cn/images/yxzj/coming/v2/skins//image/20210610/16233047546980.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+.top-nav-collapse {
+    background-color: #24355C;
+  }
+#one{
+    background: url("https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/536/536-bigskin-1.jpg")0 bottom repeat-x;;
+    width: 100%;
+    height: 90%;
+    padding-left: 72px;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+#two
+{
+    background: url("https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/533/533-bigskin-1.jpg")0 bottom repeat-x;;
+    width: 100%;
+    height: 90%;
+    padding-left: 72px;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+#three
+{
+    background: url("https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/528/528-bigskin-1.jpg")0 bottom repeat-x;
+    width: 100%;
+    height: 90%;
+    padding-left: 72px;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+#seven
+{
+    background: url("https://game.gtimg.cn/images/yxzj/coming/v2/skins//image/20210617/16239140378824.png")0 bottom repeat-x;
+    width: 100%;
+    height: 90%;
+    padding-left: 72px;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+.cover-name {
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFF;
+    line-height: 74px;
+}
+.cover-name-2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFF;
+    line-height: 44px;
+}
+.ppw{
+    width: 90%;
+    font-size: 20px;
+    color: #070707;
+    padding: 40px;
+    text-indent: 40px;
+    margin: 100px;
+    margin-top: 10px;
+}
+.streak.streak-photo {
+    background-attachment: fixed;
+  }
+.px {
+    font-size: 16px;
+    color: #6e6d87;
+}
+
+
+.exp_con {
+    float: left;
+    width: 478px;
+    height: 344px;
+    margin-top: 24px;
+    margin-left: 38px;
+    line-height: 30px;
+}
+.five-background{
+    background-color:azure;
+}
+.report{
+    margin-left: 200px;
+    margin-right: 200px;
+}
